@@ -1,0 +1,8 @@
+*Worker(context,workParams)
+create a class an extend the class with worker class and pass context and workparameter
+
+
+*WorkRequest
+
+1) oneTimeworkRequest
+2) periodic work request
